@@ -1,5 +1,6 @@
 const Eris = require("eris");
-var bot = new Eris("MzE2OTA0ODU0NDY1NDEzMTIx.DJasRQ.zorGttxnW_EnfImtyB2a8FKcEB4");
+const BotData = require("../PrivateData/BotData.json");
+var bot = new Eris(BotData.OtamuBot);
 var game;
 
 

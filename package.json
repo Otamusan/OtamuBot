@@ -1,0 +1,23 @@
+{
+  "name": "OtamuBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otamusan/OtamuBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otamusan/OtamuBot/issues"
+  },
+  "homepage": "https://github.com/Otamusan/OtamuBot#readme",
+  "dependencies": {
+    "eris": "^0.8.5"
+  }
+}
